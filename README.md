@@ -6,8 +6,6 @@ A minimal Flask web application that displays a static page.
 
 **This repository contains several Linux troubleshooting issues that you need to fix before the application will run!**
 
-See `ISSUES.md` for details on the problems you need to solve.
-
 ## Setup
 
 1. Create a virtual environment (recommended):
